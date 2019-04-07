@@ -1,5 +1,5 @@
 # Cadastro-de-equipes
-código em c
+código em c++
 
 Sinopse:
 
